@@ -53,4 +53,4 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 
 <br />
 
-![cover](.github/cover.PNG?style=flat)
+![cover](.github/cover.png?style=flat)
