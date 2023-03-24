@@ -40,6 +40,17 @@ cd Desafio-01
 npm i
 npx react-native run-android
 ```
+## Possíveis erros:
+```bash
+Caso apresente o erro:
+# opensslErrorStack: [ 'error:03000086:digital envelope routines::initialization error' ],
+# library: 'digital envelope routines',
+# reason: 'unsupported',
+# code: 'ERR_OSSL_EVP_UNSUPPORTED'
+
+Execute o comando:
+set NODE_OPTIONS=--openssl-legacy-provider && npm run start
+```
 
 ## 📄 Licença
 
