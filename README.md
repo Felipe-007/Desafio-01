@@ -22,6 +22,9 @@ As funcionalidades do aplicativo são:
 - Adicionar uma nova tarefa;
 - Remover uma tarefa;
 - Marcar e desmarcar uma tarefa como concluída.
+- Edição de uma tarefa;
+- Exibir alerta pedindo confirmação ao remover uma tarefa;
+- Exibir alerta ao tentar adicionar tarefa com o mesmo nome.
 
 ## ✨ Tecnologias
 
